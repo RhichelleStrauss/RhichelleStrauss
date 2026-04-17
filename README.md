@@ -54,7 +54,7 @@ currentlyWorkingOn: {
 ##  Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:251169@virtualwindow.co.za) 
 
-# Tech Stack:
+# <img width="64" height="64" alt="cat-typing" src="https://github.com/user-attachments/assets/0b299401-47da-4e0f-9f31-3d792db5e3c1" /> Tech Stack:
 ### Languages and Frameworks
 ---
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
