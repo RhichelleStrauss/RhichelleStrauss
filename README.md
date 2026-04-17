@@ -49,6 +49,7 @@ currentlyWorkingOn: {
   }
 };
 ```
+<img width="480" height="270" alt="image" src="https://github.com/user-attachments/assets/8071462e-e5cb-446e-a587-6ec3cc9957e2" />
 
 
 ##  Socials:
