@@ -36,6 +36,7 @@ currentlyWorkingOn: {
     physical: ["Padel"],
     creative: ["Crochet"],
     pain: ["Ferrari F1 Strategy"]
+    //being a ferrari fan proves I can handle stress, and stay during bad situations while having hope.
   },
 
   runDailyCycle() {
