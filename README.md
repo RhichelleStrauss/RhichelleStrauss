@@ -2,7 +2,7 @@
 
 * I'm a second year software development student always looking to learn, as well as improve.
 * I am currently trying to learn all sorts of new things such as SAP Fiori to get certified, C# and TypeScript.
-<img width="1280" height="640" alt="Frame 16" src="<img width="1280" height="640" alt="github banner rhi" src="https://github.com/user-attachments/assets/ad5e22c9-e32e-46b8-84cd-402fb874b605" />
+<img width="1280" height="640" alt="Frame 16"  src="https://github.com/user-attachments/assets/ad5e22c9-e32e-46b8-84cd-402fb874b605" />
 " />
 
 
