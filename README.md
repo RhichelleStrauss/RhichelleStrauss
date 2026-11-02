@@ -109,19 +109,21 @@ const developer = {
 
 # Featured Projects:
 
-## Cars4Mars Rover: Real-Time Object Detection
-Built for the Cars4Mars international rover competition, where our team won **Best Creativity**. A Raspberry Pi camera streamed its live feed over WiFi to my laptop, where a custom-trained YOLO model ran on the GPU at around 48 FPS, written in Python. The feed had three switchable modes:
+## [Doorway To Dignity](https://github.com/RhichelleStrauss/Doorway-to-Dignity)
+<img width="100%" alt="Doorway To Dignity banner" src="https://raw.githubusercontent.com/RhichelleStrauss/Doorway-to-Dignity/main/documentation/image_assets/DoorwayToDignityGithubBanner.png" />
 
-* **Balloon mode:** detects balloons and identifies their colours
-* **Tool mode:** detects a hammer, a traffic cone and a tennis ball
-* **Raw mode:** the camera feed with no processing
+A full-stack volunteering platform for a Randburg non-profit that supports homeless and vulnerable people, built from a UX200 student's Figma design. Volunteers sign up for roles at outreach events and track their hours, while coordinators create events and see who's coming. Deployed twice, on Microsoft Azure and on Render with AWS, with Google Analytics and Search Console set up. *(Student concept site, not the official organisation.)*
 
-*(Private repository.)*
+**Live:** [Azure](https://www.doorwaytodignityow251169.co.za/) · [Render + AWS](https://doorway-to-dignity.onrender.com)
 
-![Python](https://img.shields.io/badge/Python-F9C6DA?style=flat-square&logo=python&logoColor=4A1030)
-![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-F9C6DA?style=flat-square&logo=raspberrypi&logoColor=4A1030)
-![YOLO](https://img.shields.io/badge/YOLO-F9C6DA?style=flat-square&logoColor=4A1030)
-![Computer Vision](https://img.shields.io/badge/Computer_Vision-F9C6DA?style=flat-square&logoColor=4A1030)
+![MongoDB](https://img.shields.io/badge/MongoDB-F9C6DA?style=flat-square&logo=mongodb&logoColor=4A1030)
+![Express](https://img.shields.io/badge/Express-F9C6DA?style=flat-square&logo=express&logoColor=4A1030)
+![React](https://img.shields.io/badge/React-F9C6DA?style=flat-square&logo=react&logoColor=4A1030)
+![Node.js](https://img.shields.io/badge/Node.js-F9C6DA?style=flat-square&logo=nodedotjs&logoColor=4A1030)
+![TypeScript](https://img.shields.io/badge/TypeScript-F9C6DA?style=flat-square&logo=typescript&logoColor=4A1030)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-F9C6DA?style=flat-square&logo=tailwindcss&logoColor=4A1030)
+![Azure](https://img.shields.io/badge/Azure-F9C6DA?style=flat-square&logo=microsoftazure&logoColor=4A1030)
+![AWS](https://img.shields.io/badge/AWS-F9C6DA?style=flat-square&logo=amazonwebservices&logoColor=4A1030)
 
 ---
 
