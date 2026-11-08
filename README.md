@@ -159,6 +159,22 @@ A React single-page app visualising League of Legends esports data. Browse upcom
 ![Chart.js](https://img.shields.io/badge/Chart.js-F9C6DA?style=flat-square&logo=chartdotjs&logoColor=4A1030)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-F9C6DA?style=flat-square&logo=bootstrap&logoColor=4A1030)
 
+# Beyond the Web:
+
+## Cars4Mars Rover: Real-Time Object Detection
+Built for the Cars4Mars international rover competition, where our team, Techne-Cality won **Best Creativity** and placed in Top 10. A Raspberry Pi camera streamed its live feed over WiFi to my laptop, where a custom-trained YOLO model ran on the GPU at around 48 FPS, written in Python. The feed had three switchable modes:
+
+* **Balloon mode:** detects balloons and identifies their colours
+* **Tool mode:** detects a hammer, a traffic cone and a tennis ball
+* **Raw mode:** the camera feed with no processing
+
+*(Private repository.)*
+
+![Python](https://img.shields.io/badge/Python-F9C6DA?style=flat-square&logo=python&logoColor=4A1030)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-F9C6DA?style=flat-square&logo=raspberrypi&logoColor=4A1030)
+![YOLO](https://img.shields.io/badge/YOLO-F9C6DA?style=flat-square&logoColor=4A1030)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-F9C6DA?style=flat-square&logoColor=4A1030)
+
 #  GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=RhichelleStrauss&title_color=4A1030&text_color=4A1030&icon_color=4A1030&bg_color=F9C6DA&border_color=4A1030&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=RhichelleStrauss&background=F9C6DA&stroke=4A1030&ring=4A1030&fire=4A1030&currStreakNum=4A1030&sideNums=4A1030&currStreakLabel=4A1030&sideLabels=4A1030&dates=4A1030&hide_border=false)<br/>
